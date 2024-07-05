@@ -24,8 +24,8 @@ Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 secon
 
 Example
 
-![Motion Blur Shot Prep](image/UCT-02.png)
-
+<img src="images/UCT-02.png" />
+<img src="images/UCT-03.png" />
 
 
 
