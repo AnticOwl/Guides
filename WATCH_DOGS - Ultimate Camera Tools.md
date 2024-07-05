@@ -1,0 +1,38 @@
+# WATCH_DOGS - Ultimate Camera Tools 
+
+## Camera Mode
+
+2 modes available: Unbounded and Look At Player
+
+### How To Make Motion Blur Shots
+
+Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 seconds with a start shortcut key.
+
+* Press F5 to pause the game and F4 to hide the HUD.
+* Activate the camera by pressing Home then Insert to show the UCT GUI.
+![UCT LAP](file:///c%3A/Users/Olivier/Desktop/Framed%20Tools/0.%20Guides/WatchDogs/UCT-01.png)
+* Change the mode to Look At Player. The camera will be positioned attached to back back of the vehicule.
+* Press Static Angles.
+* Change the angles to your preferences in the Ideal Position Offset.
+  First box is for horizontal axe, second is he depth, and third vertical.
+* Change the angles to your preferences in the Ideal Angle Offset.
+  First box is for tilt, second is roll, and third pan.
+* Start the game back but in slow motion by pressing F6
+* Press your assigned shortcut keybing to start the long exposure. 
+* Press Print Screen to save your shot.
+* To end the Motion Blur shot, press your assigne long exposure keybind, Home, F4 and finally F6 to return to the normal game speed. 
+
+Example
+
+![Motion Blur Shot Prep](file:///c%3A/Users/Olivier/Desktop/Framed%20Tools/0.%20Guides/WatchDogs/UCT-02.png)
+
+
+
+
+
+
+@alert important
+Note:
+The Transitions and Lights will only appear when the camera is active.
+Same for the DOF (Depth Of Field).
+@end
