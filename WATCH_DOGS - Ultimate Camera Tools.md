@@ -14,7 +14,6 @@ Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 secon
 - Change the mode to Look At Player. The camera will be positioned attached to back back of the vehicule.
   
 - Press Static Angles.
-  
 - Change the angles to your preferences in the Ideal Position Offset.
   First box is for horizontal axe, second is he depth, and third vertical.
 - Change the angles to your preferences in the Ideal Angle Offset.
