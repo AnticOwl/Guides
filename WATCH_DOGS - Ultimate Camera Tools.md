@@ -18,23 +18,21 @@ Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 secon
 - Change the angles to your preferences in the Ideal Position Offset.
   First box is for horizontal axe, second is he depth, and third vertical.
 - Change the angles to your preferences in the Ideal Angle Offset.
-- First box is for tilt, second is roll, and third pan.
+  First box is for tilt, second is roll, and third pan.
 - Start the game back but in slow motion by pressing F6.
 - Press your assigned shortcut keybing to start the long exposure. 
 - Press Print Screen to save your shot.
 - To end the Motion Blur shot, press your assigne long exposure keybind, Home, F4 and finally F6 to return to the normal game speed.
 
+**
 
 Example
 
 <img src="images/UCT-02.png" />
 <img src="images/UCT-03.png" />
 
-
-
-
-
-
-**Note:
+@alert Important
 The Transitions and Lights will only appear when the camera is active.
-Same for the DOF (Depth Of Field).**
+Same for the DOF (Depth Of Field).
+
+@end
