@@ -31,7 +31,7 @@ Example
 <img src="images/UCT-02.png" />
 <img src="images/UCT-03.png" />
 
->[!NOTE]
+>[!IMPORTANT]
 >The Transitions and Lights tabs will only appear when the camera is active.
 >The DOF (Depth Of Field) isn't useable while in gameplay mode.
 
