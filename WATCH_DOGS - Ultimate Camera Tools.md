@@ -24,7 +24,7 @@ Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 secon
 - Press Print Screen to save your shot.
 - To end the Motion Blur shot, press your assigne long exposure keybind, Home, F4 and finally F6 to return to the normal game speed.
 
-*Note: tilt, roll and pan are orbital when in Look At PLayer mode*
+*Note: tilt, roll and pan are orbital when in Look At Player mode*
 
 Example
 
