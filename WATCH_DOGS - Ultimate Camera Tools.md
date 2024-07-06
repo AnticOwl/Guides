@@ -31,7 +31,7 @@ Example
 <img src="images/UCT-02.png" />
 <img src="images/UCT-03.png" />
 
-@alert Important
-The Transitions and Lights will only appear when the camera is active.
-Same for the DOF (Depth Of Field).
-@end
+>[!NOTE]
+>The Transitions and Lights will only appear when the camera is active.
+>Same for the DOF (Depth Of Field).
+
