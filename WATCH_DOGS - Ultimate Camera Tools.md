@@ -34,5 +34,4 @@ Example
 @alert Important
 The Transitions and Lights will only appear when the camera is active.
 Same for the DOF (Depth Of Field).
-
 @end
