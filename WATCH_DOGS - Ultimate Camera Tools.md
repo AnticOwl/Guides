@@ -22,7 +22,7 @@ This mode let you freely move the camera around
 
 This mode will attach the camera to the player. Whatever on foot or in/on a vehicle
 
-**__How To Make Motion Blur Shots__**
+__How To Make Motion Blur Shots__
 
 Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 seconds with a start shortcut key.
 
