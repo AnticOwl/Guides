@@ -42,7 +42,9 @@ Required: ReShade and Real Long Exposure shader configured at like 0.2-0.4 secon
 - Press Print Screen to save your shot.
 - To end the Motion Blur shot, press your assigne long exposure keybind, Home, F4 and finally F6 to return to the normal game speed.
 
-*Note: tilt, roll and pan are orbital when in Look At Player mode*
+*Note:* 
+*Tilt, roll and pan are orbital when in Look At Player mode.*
+*For better image quality you can also use Cheat Engine Speed Hack when the tool Slomo is active.*
 
 Example
 
@@ -52,4 +54,5 @@ Example
 >[!IMPORTANT]
 >The Transitions and Lights tabs will only appear when the camera is active.
 >The DOF (Depth Of Field) isn't useable while in gameplay mode.
+
 
