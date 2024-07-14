@@ -10,10 +10,10 @@ This mode let you freely move the camera around
 
 | Keys  | Movements |
 | ------------- | ------------- |
-| Arroow Up  | Move Forward  |
-| Arroow Down  | Move Backward  |
-| Arroow Left  | Move Left  |
-| Arroow Right  | Move Right  |
+| Arrow Up  | Move Forward  |
+| Arrow Down  | Move Backward  |
+| Arrow Left  | Move Left  |
+| Arrow Right  | Move Right  |
 | Page Up  | Lift Up  |
 | Page Down  | Lift Down |
 | Mouse | Tilt and Pan  |
