@@ -17,6 +17,12 @@ This mode let you freely move the camera around
 | Page Up  | Lift Up  |
 | Page Down  | Lift Down |
 | Mouse | Tilt and Pan  |
+| Numpad 7 | Roll Left |
+| Numpad 4 | Reset Roll |
+| Numpad 1 | Roll Right |
+| Numpad 9 | Decrease FOV |
+| Numpad 6 | Reset FOV |
+| Numpad 3 |Increase FOV |
 
 ### Look At Player
 
